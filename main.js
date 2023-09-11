@@ -25,5 +25,5 @@ function toggleMove() {
 }
 
 function rightChoice(){
-    window.alert('Parabéns, escolha certa!!! 😁❤😍')
+    window.alert('Parabéns, escolha certa!!! Estamos casados! 😁❤😍')
 }
